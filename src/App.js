@@ -1,9 +1,12 @@
-import './App.css';
+
+import Body from './Components/Body';
+
 
 function App() {
   return (
-    <div className="App text-cyan-800">
-      Hello World React
+    <div>
+      <Body/>
+      
     </div>
   );
 }
